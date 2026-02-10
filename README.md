@@ -52,11 +52,6 @@ It contains customer demographics, behavioral patterns, transaction activity, an
 
 ---
 
-# 🚀 Project Milestones  
-All milestones (1–4) are completed. Milestone 5 was removed as requested.
-
----
-
 # ✔️ Milestone 1 — Data Collection, Cleaning & Exploration
 
 ### Tasks Completed
